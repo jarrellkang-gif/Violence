@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Warlord",
+		"name": "Survivor",
 		"baseHappiness": 12,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -10,8 +10,8 @@
 		"buildingCostModifier": 0.85,
 		"policyCostModifier": 0.85,
 		"unhappinessModifier": 0.75,
-		"barbarianBonus": 0.4,
-		"barbarianSpawnDelay": 3,
+		"barbarianBonus": 0,
+		"barbarianSpawnDelay": 0,
 		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 1.1,
 		"aiUnitCostModifier": 1.1,
