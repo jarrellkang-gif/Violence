@@ -9,7 +9,7 @@
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
     },
     {
-		"name": "Infantry",
+		"name": "Demon",
 		"unitType": "Infantry",
 		"movement": 2,
 		"strength": 5,
